@@ -1,7 +1,7 @@
 # Telegram Görüntüleme 
 
 ## Features
-- free proxyler ile tamamlanıre
+- free proxyler ile tamamlanır
 - Proxy ile otomatik gönderilir
 ```
 git clone https://github.com/idrissalih/tggoruntuleme
