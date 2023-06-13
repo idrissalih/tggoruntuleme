@@ -1,8 +1,8 @@
 # Telegram Görüntüleme 
 
 ## Features
-- Auto Proxy scraping ( You don't have to get proxies )
-- Auto Proxy rescraping ( Let it run for ever )
+- free proxyler ile tamamlanıre
+- Proxy ile otomatik gönderilir
 ```
 git clone https://github.com/idrissalih/tggoruntuleme
 ls
