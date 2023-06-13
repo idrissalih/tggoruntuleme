@@ -1,4 +1,4 @@
-# Telegram Views V3
+# Telegram Görüntüleme 
 
 ## Features
 - Auto Proxy scraping ( You don't have to get proxies )
