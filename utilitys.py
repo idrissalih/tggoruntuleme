@@ -11,8 +11,8 @@ THREADS = 400
 LOGO = '''
    ~ Telegram Auto Views V3 ~
      ~ Dev: @G5_F1 ~
-          ~ Ch1: @Xx_MO_ON_xX ~
-          ~ Ch2: @hmsfails ~
+          ~ Yapımcı: @ttncmedya ~
+          ~ Kanal: @ttncmedya1 ~
 '''
 
 error_file = open('errors.txt', 'a+', encoding='utf-8')
@@ -46,7 +46,7 @@ def input_loader():
 
 
 def display():
-    print(' [ OUTPUT ] Started ( Wait few seconds to run threads )');swait(7)
+    print(' [ OUTPUT ] Started ( Lütfen Bekleyin )');swait(7)
     while int(active_count()) < THREADS-100: swait(0.05)
     system('cls' if name == 'nt' else 'clear')
     
