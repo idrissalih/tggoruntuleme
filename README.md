@@ -6,7 +6,7 @@
 ```
 git clone https://github.com/idrissalih/tggoruntuleme
 ls
-cd Free-views-Telegram-
+cd tggoruntuleme
 ls
 python main.py
 ```
